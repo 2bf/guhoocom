@@ -9,5 +9,7 @@ User-agent: *
 Disallow: /trajbot.html
 Disallow: /google914153fe7a5455c9.html
 Disallow: /styles/
+Disallow: /ept/endpt.html
+Disallow: /ept/
 
 Sitemap: https://guhoo.com/sitemap.xml
